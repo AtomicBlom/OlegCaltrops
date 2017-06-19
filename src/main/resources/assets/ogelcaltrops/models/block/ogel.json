@@ -1,0 +1,128 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "blockA": "blocks/concrete_blue",
+    "blockANub": "blocks/hardened_clay_stained_blue"
+  },
+  "elements": [
+    {
+      "__comment": "BlockA Base",
+
+      "from": [7.0, 0.0, 7.0],
+      "to": [8, 0.6, 9.0],
+      "faces": {
+        "north": {"texture": "#blockA"},
+        "south": {"texture": "#blockA"},
+        "east":  {"texture": "#blockA"},
+        "west":  {"texture": "#blockA"},
+        "up":    {"texture": "#blockA"},
+        "down":  {"texture": "#blockA"}
+      }
+    },
+    {
+      "__comment": "BlockA Nub 1",
+
+      "from": [7.1, 0.6, 7.1],
+      "to": [7.4, 0.7, 7.4],
+      "faces": {
+        "north": {"texture": "#blockANub"},
+        "south": {"texture": "#blockANub"},
+        "east":  {"texture": "#blockANub"},
+        "west":  {"texture": "#blockANub"},
+        "up":    {"texture": "#blockANub"}
+      }
+    },
+    {
+      "__comment": "BlockA Nub 2",
+
+      "from": [7.6, 0.6, 7.1],
+      "to": [7.9, 0.7, 7.4],
+      "faces": {
+        "north": {"texture": "#blockANub"},
+        "south": {"texture": "#blockANub"},
+        "east":  {"texture": "#blockANub"},
+        "west":  {"texture": "#blockANub"},
+        "up":    {"texture": "#blockANub"}
+      }
+    },
+    {
+      "__comment": "BlockA Nub 3",
+
+      "from": [7.1, 0.6, 7.6],
+      "to": [7.4, 0.7, 7.9],
+      "faces": {
+        "north": {"texture": "#blockANub"},
+        "south": {"texture": "#blockANub"},
+        "east":  {"texture": "#blockANub"},
+        "west":  {"texture": "#blockANub"},
+        "up":    {"texture": "#blockANub"}
+      }
+    },
+    {
+      "__comment": "BlockA Nub 4",
+
+      "from": [7.6, 0.6, 7.6],
+      "to": [7.9, 0.7, 7.9],
+      "faces": {
+        "north": {"texture": "#blockANub"},
+        "south": {"texture": "#blockANub"},
+        "east":  {"texture": "#blockANub"},
+        "west":  {"texture": "#blockANub"},
+        "up":    {"texture": "#blockANub"}
+      }
+    },
+    {
+      "__comment": "BlockA Nub 5",
+
+      "from": [7.1, 0.6, 8.1],
+      "to": [7.4, 0.7, 8.4],
+      "faces": {
+        "north": {"texture": "#blockANub"},
+        "south": {"texture": "#blockANub"},
+        "east":  {"texture": "#blockANub"},
+        "west":  {"texture": "#blockANub"},
+        "up":    {"texture": "#blockANub"}
+      }
+    },
+    {
+      "__comment": "BlockA Nub 6",
+
+      "from": [7.6, 0.6, 8.1],
+      "to": [7.9, 0.7, 8.4],
+      "faces": {
+        "north": {"texture": "#blockANub"},
+        "south": {"texture": "#blockANub"},
+        "east":  {"texture": "#blockANub"},
+        "west":  {"texture": "#blockANub"},
+        "up":    {"texture": "#blockANub"}
+      }
+    },
+    {
+      "__comment": "BlockA Nub 7",
+
+      "from": [7.1, 0.6, 8.6],
+      "to": [7.4, 0.7, 8.9],
+      "faces": {
+        "north": {"texture": "#blockANub"},
+        "south": {"texture": "#blockANub"},
+        "east":  {"texture": "#blockANub"},
+        "west":  {"texture": "#blockANub"},
+        "up":    {"texture": "#blockANub"}
+      }
+    },
+    {
+      "__comment": "BlockA Nub 8",
+
+      "from": [7.6, 0.6, 8.6],
+      "to": [7.9, 0.7, 8.9],
+      "faces": {
+        "north": {"texture": "#blockANub"},
+        "south": {"texture": "#blockANub"},
+        "east":  {"texture": "#blockANub"},
+        "west":  {"texture": "#blockANub"},
+        "up":    {"texture": "#blockANub"}
+      }
+    }
+
+  ]
+}

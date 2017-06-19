@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "ogelcaltrops",
+    "name": "Ogel Caltrops",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "http://github.com/AtomicBlom/OgelCaltrops",
+    "updateUrl": "",
+    "authorList": ["AtomicBlom"],
+    "credits": "BluSunrize (for the idea)",
+    "logoFile": "assets/ogelcaltrops/logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
